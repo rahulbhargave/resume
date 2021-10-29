@@ -38,12 +38,11 @@ Your app is ready to be deployed!
 2) My linked github repository doesn't have notable projects to highlight, so kindly excuse on that section. 
 3) For testimonials / recommendation section, slider can be added. (but I thought with slider there will be less chances for someone to reach till end of slider to check all comments so kept as list)
 4) As of now project not mapped to any domain, but using AWS Route53 exiting bucket can be linked with purchased domain, check my Medium article about then same <a href="https://aws.plainenglish.io/link-s3-bucket-static-website-to-domain-name-using-route53-b196a9bf9c54">HERE</a>.
+5) Can create inline command to deploy it to S3 bucket in one click using `sudo aws s3 sync ./build s3://<bucket_name>/`
 
 ## Some Glimpse of Website
 
 <img width="1423" alt="image" src="https://user-images.githubusercontent.com/41572852/139424074-c1b407f0-2b6a-4889-80d0-4708fcd9307b.png">
-
-<img width="1423" alt="image" src="https://user-images.githubusercontent.com/41572852/139424123-f4e7e26d-54c3-44ef-ba06-33ebed987aab.png">
 
 <img width="1423" alt="image" src="https://user-images.githubusercontent.com/41572852/139424018-79d6b660-2c52-4d93-be9a-df07960a1c79.png">
 
