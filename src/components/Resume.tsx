@@ -3,6 +3,14 @@ import { IEducation, IWork, ISkill } from "../types/IResume";
 
 const Resume: React.FC<any> = ({ resume }) => {
   const { skillmessage, education, work, skills } = resume;
+
+  const skillTags = skillmessage.split(",").map((skill: string) => {
+    return (
+      <span key={skill} className="skill-tag">
+        {skill}
+      </span>
+    );
+  });
   const educations = education.map((education: IEducation) => {
     return (
       <div key={education.school}>
@@ -46,7 +54,7 @@ const Resume: React.FC<any> = ({ resume }) => {
         </div>
 
         <div className="nine columns main-col">
-          <p>{skillmessage}</p>
+          <p>{skillTags}</p>
 
           <div className="bars">
             <ul className="skills">{allSkills}</ul>

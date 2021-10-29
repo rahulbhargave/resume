@@ -7,10 +7,11 @@ export const fetchRepos = () => async (dispatch: any) => {
     try {
         const res = await httpApis.getRepos();
         const data = res.data.map((repo: any) => {
-            const { name, html_url } = repo;
+            const { node_id,name, html_url } = repo;
             return {
                 name,
-                html_url
+                html_url,
+                node_id
             }
         })
 

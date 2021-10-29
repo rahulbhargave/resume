@@ -299,6 +299,17 @@ ul#nav li.current a {
   margin-top: 6px;
 }
 
+#resume .skill-tag {
+  padding: 0px 6px;
+  margin: 2px;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 500;
+  display: inline-block;
+  border-radius: 5px;
+  background-color: #2196f3;
+}
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
@@ -343,7 +354,6 @@ ul#nav li.current a {
   border-radius: 3px 0 0 3px;
 }
 
-
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
@@ -381,10 +391,10 @@ ul#nav li.current a {
 .portfolio-item .item-wrap a {
   display: block;
   cursor: pointer;
-  padding:10px;
+  padding: 10px;
 }
 
-.portfolio-item h5{
+.portfolio-item h5 {
   display: inline;
   padding: 10px;
 }
@@ -530,7 +540,7 @@ ul#nav li.current a {
   -webkit-box-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  margin-left:10px;
+  margin-left: 10px;
 }
 #testimonials .base-main-card__title {
   word-break: break-word;
@@ -556,7 +566,7 @@ ul#nav li.current a {
   color: #fff;
   line-height: 20px;
 }
-#testimonials .base-main-card__info h6{
+#testimonials .base-main-card__info h6 {
   font-size: 1.3rem;
 }
 

@@ -14,7 +14,7 @@ const Portfolio: React.FC<any> = ({ projects }) => {
     projects.length > 0 &&
     projects.map((project: IPortfolio) => {
       return (
-        <div key={project.name} className="columns portfolio-item">
+        <div key={project.node_id} className="columns portfolio-item">
           <div className="item-wrap">
             <a
               href={project.html_url}
