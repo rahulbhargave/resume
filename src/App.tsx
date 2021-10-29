@@ -25,7 +25,6 @@ const App = () => {
     dispatch(fetchRepos());
   }, [dispatch]);
 
-  console.dir(data);
   return (
     <>
       {data?.main && (
