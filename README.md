@@ -1,4 +1,8 @@
-## Rahul Bhargave Website
+## Rahul Bhargave Website 
+
+## Live Demo
+<a href="http://rahul-bhargave-resume.s3-website.eu-central-1.amazonaws.com/">http://rahul-bhargave-resume.s3-website.eu-central-1.amazonaws.com/</a>.
+
 
 ## Available Scripts
 
@@ -18,6 +22,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
+
+## API enpoints used
+1) https://s3.eu-central-1.amazonaws.com/resume.static.data/resumeData.json
+2) https://api.github.com/users/<git_user_name>/repos?per_page=5
 
 ## Project Features
 1) This application is developed with React, Redux, Typescript
