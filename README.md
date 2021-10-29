@@ -1,4 +1,8 @@
-## Rahul Bhargave Website
+## Rahul Bhargave Website 
+
+## Live Demo
+<a href="http://rahul-bhargave-resume.s3-website.eu-central-1.amazonaws.com/">Live Demo</a>
+
 
 ## Available Scripts
 
@@ -19,6 +23,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
+## API enpoints used
+1) https://s3.eu-central-1.amazonaws.com/resume.static.data/resumeData.json
+2) https://api.github.com/users/<git_user_name>/repos?per_page=5
+
 ## Project Features
 1) This application is developed with React, Redux, Typescript
 2) This project fetches data from two sources (AWS S3 bucket endpoint & github public API)
@@ -28,7 +36,9 @@ Your app is ready to be deployed!
 ## Limitation & Future Scope
 1) Currently recommendations from LinkedIn are replicated at our source data, later this will be fetched from LinkedIn's Profile API
 2) My linked github repository doesn't have notable projects to highlight, so kindly excuse on that section. 
-3) As of now project not mapped to any domain, but using AWS Route53 exiting bucket can be linked with purchased domain, check my Medium article about then same <a href="https://aws.plainenglish.io/link-s3-bucket-static-website-to-domain-name-using-route53-b196a9bf9c54">HERE</a>.
+3) For testimonials / recommendation section, slider can be added. (but I thought with slider there will be less chances for someone to reach till end of slider to check all comments so kept as list)
+4) Paragraph above skill bar can be converted into tags
+5) As of now project not mapped to any domain, but using AWS Route53 exiting bucket can be linked with purchased domain, check my Medium article about then same <a href="https://aws.plainenglish.io/link-s3-bucket-static-website-to-domain-name-using-route53-b196a9bf9c54">HERE</a>.
 
 ## Some Glimpse of Website
 
@@ -40,7 +50,9 @@ Your app is ready to be deployed!
 
 <img width="1423" alt="image" src="https://user-images.githubusercontent.com/41572852/139424185-4ccad7aa-368a-4bb3-81f7-670756b26763.png">
 
-<img width="1423" alt="image" src="https://user-images.githubusercontent.com/41572852/139424235-b0b8a4a9-bd3b-42b4-ad50-e0bea73d74f1.png">
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/41572852/139443836-ccdd1069-3325-43d7-8ba1-41fc41ab16d4.png">
 
-<img width="1423" alt="image" src="https://user-images.githubusercontent.com/41572852/139424511-9410b453-b8da-46d4-b2bf-c96b807898ec.png">
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/41572852/139443883-76f71b18-f5e9-4103-83f3-d07cdeed4015.png">
+
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/41572852/139443945-ce105ca3-25dd-4fa7-b165-327a08ba064b.png">
 
