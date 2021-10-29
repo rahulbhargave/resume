@@ -41,11 +41,3 @@ Your app is ready to be deployed!
 <img width="1423" alt="image" src="https://user-images.githubusercontent.com/41572852/139424185-4ccad7aa-368a-4bb3-81f7-670756b26763.png">
 
 <img width="1423" alt="image" src="https://user-images.githubusercontent.com/41572852/139424235-b0b8a4a9-bd3b-42b4-ad50-e0bea73d74f1.png">
-
-![Uploading image.png…]()
-
-
-
-
-
-### `yarn build`
