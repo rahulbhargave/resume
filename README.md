@@ -1,7 +1,7 @@
 ## Rahul Bhargave Website 
 
 ## Live Demo
-<a href="http://rahul-bhargave-resume.s3-website.eu-central-1.amazonaws.com/">http://rahul-bhargave-resume.s3-website.eu-central-1.amazonaws.com/</a>.
+<a href="http://rahul-bhargave-resume.s3-website.eu-central-1.amazonaws.com/" target="_blank" rel="noreferrer">http://rahul-bhargave-resume.s3-website.eu-central-1.amazonaws.com/</a>
 
 
 ## Available Scripts
