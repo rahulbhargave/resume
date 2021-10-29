@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## Rahul Bhargave Website
 
 ## Available Scripts
 
@@ -6,16 +6,10 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
+Runs the app in the development mode.
 ### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the test runner in the interactive watch mode.
 
 ### `yarn build`
 
@@ -25,7 +19,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `yarn eject`
 
@@ -37,8 +30,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Project Features
+1) This application is developed with React, Redux, Typescript
+2) This project fetches data from two sources (AWS S3 bucket endpoint & github public API)
+3) This project is responsive & mobile device friendly.
+4) This project is hosted in AWS S3 bucket check my Medium article for the same <a href="https://aws.plainenglish.io/independent-test-environment-for-ui-developers-using-aws-s3-1c4abe48bd89">HERE</a>.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Limitation & Future Scope
+1) Currently recommendations from LinkedIn are replicated at our source, later direct this will be fetched from LinkedIn's Profile API
+2) My linked github repository doesn't have notable projects to highlight, so kindly excuse on that section. 
+3) As of now project not mapped to any domain, but using AWS Route53 exiting bucket can be linked with purchased domain, check my Medium article about then same <a href="https://aws.plainenglish.io/link-s3-bucket-static-website-to-domain-name-using-route53-b196a9bf9c54">HERE</a>.

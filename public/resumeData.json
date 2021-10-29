@@ -1,0 +1,242 @@
+{
+  "main": {
+    "name": "Rahul Bhargave",
+    "occupation": "Frontend Focused Full Stack Developer",
+    "description": "Positive, Happy, Energetic Personality, I like to interact with different people & I'm always up for challenges",
+    "image": "profilepic.jpg",
+    "bio": "Hello People!  Namaste!  Hola! as you have already know my name, Get to know me more in this section. I'm software developer by passion & profession. Apart from work, I love to spend my time with cooking, playing with my dogs, workout, spend some time with nature. My Mother tongue is Marathi, I also speaks Hindi & English fluently, nowadays I'm learning German & Spanish.",
+    "contactmessage": "Get in touch? Please feel to reach out to me for any query",
+    "email": "rahul.bhargave@hotmail.com",
+    "phone": "+49 178 762 7296",
+    "address": {
+      "street": "2080, Jean-Weipert Str 3",
+      "city": "Offenbach am Main",
+      "state": "Hessen",
+      "country": "Germany",
+      "zip": "63067"
+    },
+    "website": "https://rahulanilbhargave.medium.com/",
+    "resumedownload": "resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rahul-bhargave/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/bhargave_rahul/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/rahulbhargave",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "GIT (GitHub), ScrumMaster, Atlassian Bitbucket, Microservice Architecture, REST API, Jira, Team-working skills, Basic Docker knowledge, Management skills, Agile (Scrum), CICD pipelines, AWS CICD, mongoDB, MySQL, GraphQLApollo, ElasticSearch",
+    "education": [
+      {
+        "school": "University of Pune",
+        "degree": "Bachelor of Engineering",
+        "graduated": "May 2012",
+        "description": "http://www.unipune.ac.in"
+      },
+      {
+        "school": "Maharashtra State Board of Technical Education",
+        "degree": "Diploma in Computer Engineering",
+        "graduated": "May 2009",
+        "description": "http://www.msbte.com"
+      }
+    ],
+    "work": [
+      {
+        "company": "Synfioo GmbH",
+        "title": "Front end Developer",
+        "years": "May 2021 - Present",
+        "description": "Working as a Front end developer for product development of transport domain ETA calculation product. Major task involves complete automated pipeline setup for Front end development with AWS, Solve critical issues, develop new feature of product by having discussion with product owners in agile development manner."
+      },
+      {
+        "company": "Citi Bank(Citi Services India Pvt Ltd)",
+        "title": "Senior Software Developer",
+        "years": "Dec 2018 - May 2021",
+        "description": "Worked as front end focused full stack developer, deals with Citi Private Banking’s applications, majorly AML/KYC related applications. Along with this worked on various side projects. role I performing is to do coding, regular code reviews, giving technical sessions to the team, mentoring juniors, leading side projects, drive migration activities, communication with business representatives for requirements."
+      },
+      {
+        "company": "John Deere (Yash Technologies)",
+        "title": "Senior Front end Developer",
+        "years": "Jan 2016 - Nov 2018",
+        "description": "Worked as Senior UI developer at John Deere’s Product verification & Validation application / product, which deals with all lifecycle of manufacturing & progress tracking. role I performing is to do coding, regular code reviews, giving technical sessions to the team, mentoring new joiners, drive migration activities, communication with business representatives for requirements."
+      },
+      {
+        "company": "Infosys BPO Ltd",
+        "title": "UI Specialist",
+        "years": "Aug 2015 - Jan 2016",
+        "description": "Worked at Barclays Investment banking domain team’s AML/KYC part. It deals with regulatory checks as well as international trade guidelines for global customer."
+      },
+      {
+        "company": "Salt Technologies",
+        "title": "Web Developer",
+        "years": "Aug 2014 - July 2015",
+        "description": "Worked on various web applications such as CRMs, E-Commerce, Job portals."
+      },
+      {
+        "company": "UnifyHiTech",
+        "title": "Jr. Web Developer",
+        "years": "June 2013 - June 2014",
+        "description": "Worked on various web applications such as CRMs, E-Commerce, social media websites, created web services for android mobile application."
+      },
+      {
+        "company": "BitSolve",
+        "title": "Jr. Software Developer",
+        "years": "Dec 2012 - May 2013",
+        "description": "Worked on various web applications such as CRMs, E-Commerce offshore clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angular",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "VueJs",
+        "level": "40%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "AWS",
+        "level": "40%"
+      },
+      {
+        "name": "NodeJS/ExpressJS/NestJS",
+        "level": "50%"
+      },
+      {
+        "name": "MySQL/MongoDB",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": [],
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Rahul was a go to expert for me whenever anything was needed for UI in order to create great UX Designs. He was a great team player with agile mindset that has greatly helped me to deliver great UX. I thoroughly enjoyed working with Rahul.",
+        "user": "Nimish Kasar",
+        "designation": "Global UX (User eXperience) Strategist",
+        "organization": "",
+        "image": "https://media-exp1.licdn.com/dms/image/C4D03AQE9Bcb7fy9EOg/profile-displayphoto-shrink_100_100/0/1516564667720?e=1640822400&v=beta&t=KGdyhl1Cd5JKRZ86F-dnDPLyLTQ4XFyehLsBak5CpQs",
+        "url": "https://www.linkedin.com/in/nimishkasar/"
+      },
+      {
+        "text": "I worked with Rahul for more than two year. He is very committed to his work. Passionate to learn new technology. Always ready to take new initiatives and at the same time he also guides the team. It was great experience working with Rahul. Highly recommended",
+        "user": "Harshal Sharma",
+        "designation": "Assistant Vice President",
+        "organization": "Citi",
+        "image": "https://media-exp1.licdn.com/dms/image/C4E03AQFtoSTNEtvqnQ/profile-displayphoto-shrink_100_100/0/1595442436345?e=1640822400&v=beta&t=4AHIowQMGWgbU_274WlTLCFwEXwQ9ca1qEypnxzg-Tk",
+        "url": "https://www.linkedin.com/in/harshal-sharma-973b3b54/"
+      },
+      {
+        "text": "It is my pleasure to write this recommendation for Rahul. Basically Rahul and I are college mates. I have been consistently impressed with Rahul’s attitude towards work and his strong vibrant personality. Rahul has strong leadership and management skills. Apart from technical insights, he is always happy to mentor anybody and help others to showcases or improves their capabilities. I am one the example out of it.",
+        "user": "Ashish Marke",
+        "designation": "AbInitio | Talend | Data Science Enthusiast",
+        "organization": "",
+        "image": "https://media-exp1.licdn.com/dms/image/C4E03AQGTyHR71HWigA/profile-displayphoto-shrink_100_100/0/1517355595348?e=1640822400&v=beta&t=EyLF1TI-NRuHwDuf1ph6MLHK0WjpJhlDd29xByP6j3g",
+        "url": "https://www.linkedin.com/in/ashishmarke/"
+      },
+      {
+        "text": "Rahul is a wonderful colleague to work with, and has unique expertise in the technical domain he is into. Has a great attitude & is a team player too. We used to worked together at shared work place during covid-lockdown time. Though I am working with another technology but he used to provide me some out of the box solutions. Rahul is extremely enthusiastic about his work & fun at work which is infectious. ",
+        "user": "Nilesh Borkar",
+        "designation": "Specialist at Clover | Android Developer | Mobile App Developer | DevOps",
+        "organization": "",
+        "image": "https://media-exp1.licdn.com/dms/image/C5103AQHjdVBym2v9tA/profile-displayphoto-shrink_100_100/0/1583911609543?e=1640822400&v=beta&t=1mA4rd12_utDUt0qr-QMoNHJycyafMhg0kIy-WZwjG4",
+        "url": "https://www.linkedin.com/in/nilesh-borkar-74091751/"
+      },
+      {
+        "text": "I had a privilege to interact with Rahul during one of the assignments in Citicorp CPB business unit. I found him quite relaxed and someone who is passionate about his skills and expertise. Also he is someone who constantly strives to learn something new and improvises in whatever he already knows about. I wish his good luck for the future.",
+        "user": "Deepak Gupta",
+        "designation": "Technology Specialist | Technology Enthusiast | Senior JAVA Developer | DevOps | CICD | Agile Scrum",
+        "organization": "",
+        "image": "https://media-exp1.licdn.com/dms/image/C4D03AQFlymtQAvSKhQ/profile-displayphoto-shrink_100_100/0/1617462090502?e=1640822400&v=beta&t=DzzS2bVHD33qUrPq4aRtKcf3K8KeQ5rAPKa2A-gyiEk",
+        "url": "https://www.linkedin.com/in/deepak-gupta-9a86357/"
+      },
+      {
+        "text": "Rahul finished his University and took a starting position when I was at UnifyHiTech. He demonstrated excellent understanding of web technologies from day one. He is a keen and quick learner which reflects in the expertise he has acquired over a very short period. His excellent technical skills and ability to handle responsibility makes him a valuable asset to any organisation.",
+        "user": "Mandar Deshpande",
+        "designation": "Web Front-End Architect at European Bioinformatics Institute | EMBL-EBI",
+        "organization": "",
+        "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGzYHoy-z3i-A/profile-displayphoto-shrink_100_100/0/1600558931921?e=1640822400&v=beta&t=0GKerzvgxXjW_-rYtXnZXgRHXmEt9CKskHMUFEMDlXA",
+        "url": "https://www.linkedin.com/in/mandar-deshpande-1434843a/"
+      },
+      {
+        "text": "Rahul is an amazing techie with lots of hands on experiences on various technology. The thing which fascinates me is his perseverance and commitment to get the work done. He is committed to his work and thrives hard to make it more better. Apart from that he is a great team player and holds a quality to keep the team bonded. An amazing colleague to work with. I wish him for good luck for his future endeavours.",
+        "user": "Pranit Dhoke",
+        "designation": "Technical Lead",
+        "organization": "e-Zest solutions",
+        "image": "https://media-exp1.licdn.com/dms/image/C5103AQFOVaO6v6kmWQ/profile-displayphoto-shrink_100_100/0/1537178799079?e=1640822400&v=beta&t=t0r-dpvoDe0wLShu7_VAdcOpByDw93L2Qs66fSygRRs",
+        "url": "https://www.linkedin.com/in/pranitdhoke/"
+      },
+      {
+        "text": "We have observed constantly that he is always up for challenges and delivers prompt solutions during critical times. Considering his dynamic work attitude we have always avoided giving him monotonous task instead have delegated tasks that brings out leadership and quality deliverables.",
+        "user": "Mudassar Ahamer Hakim",
+        "designation": "SDM | AWS | PMP | SAFE | MBA | JAVA | JS",
+        "organization": "",
+        "image": "https://media-exp1.licdn.com/dms/image/C4E03AQFtpnciPltfoA/profile-displayphoto-shrink_100_100/0/1634313501839?e=1640822400&v=beta&t=GIGXX8i2yXvGuQldlV6qcU0CtIMgUvSEje9lzenPKB0",
+        "url": "https://www.linkedin.com/in/mudassar-ahamer-hakim-281b8b9/"
+      },
+      {
+        "text": "Rahul is a wonderful colleague to work with, and has unique expertise in the technical domain he is into. Has a great attitude & is a team player too. We have been colleagues from different teams for a span of 2.5 years. My team & I have enjoyed working with him. Rahul is extremely enthusiastic about his work & fun at work which is infectious. He has always worked beyond the call of duty & I happily recommend him here on LinkedIn.",
+        "user": "Ishwari Shah",
+        "designation": "Lead HR Business Partner",
+        "organization": "",
+        "image": "https://media-exp1.licdn.com/dms/image/C4E03AQEaJce8cCr3AA/profile-displayphoto-shrink_100_100/0/1602349954075?e=1640822400&v=beta&t=IsIbMccjZAnmNYL3xjN8MOUQyzUBjd7am1JlJci3opU",
+        "url": "https://www.linkedin.com/in/ishwari-shah-6109ba33/"
+      },
+      {
+        "text": "A good mentor, talented individual, awesome team player - thats what I conclude while working with Rahul",
+        "user": "Nitisha Kuashik",
+        "designation": "Assistant Manager",
+        "organization": "Citi",
+        "image": "https://media-exp1.licdn.com/dms/image/C4E03AQEwccWjpgwuXw/profile-displayphoto-shrink_100_100/0/1593614027671?e=1640822400&v=beta&t=1NoafwQ27QkMIqyDzXe9jtGDJbO7PnMHRI044xP2O1w",
+        "url": "https://www.linkedin.com/in/nitisha-kaushik-15902459/"
+      },
+      {
+        "text": "Every teams needs All-rounder player in team, he is the one. He has very good expertise in technologies, passionate to work, challenges acceptor. Never say NO attitude. He is path finder.",
+        "user": "Umesh Nikam",
+        "designation": "Lead Software Engineer",
+        "organization": "John Deere",
+        "image": "https://media-exp1.licdn.com/dms/image/C5103AQGnlISuxMPxSQ/profile-displayphoto-shrink_100_100/0/1556104505437?e=1640822400&v=beta&t=CbT8IbRH2uky_xD7u5u5DZlgp-oRafh_Y3uf0qEnznc",
+        "url": "https://www.linkedin.com/in/umesh-nikam-a7b83729/"
+      },
+      {
+        "text": "Rahul is a very good full stack developer having good knowledge of front end and backend",
+        "user": "Gaurav Patil",
+        "designation": "Co-Founder @ StandardWings IoT | PHP | Python | AI | Machine Learning | nodeJs | React JS | Angular | Wordpress | Web",
+        "organization": "",
+        "image": "https://media-exp1.licdn.com/dms/image/C4D03AQFivbIvXGe2LA/profile-displayphoto-shrink_100_100/0/1517234332227?e=1640822400&v=beta&t=HW10uf-jKRrZG4m3T8RKgydiGfQXdyVs-E46odSD4X8",
+        "url": "https://www.linkedin.com/in/gaurav-patil-b7789224/"
+      }
+    ]
+  }
+}
