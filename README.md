@@ -36,7 +36,9 @@ Your app is ready to be deployed!
 ## Limitation & Future Scope
 1) Currently recommendations from LinkedIn are replicated at our source data, later this will be fetched from LinkedIn's Profile API
 2) My linked github repository doesn't have notable projects to highlight, so kindly excuse on that section. 
-3) As of now project not mapped to any domain, but using AWS Route53 exiting bucket can be linked with purchased domain, check my Medium article about then same <a href="https://aws.plainenglish.io/link-s3-bucket-static-website-to-domain-name-using-route53-b196a9bf9c54">HERE</a>.
+3) For testimonials / recommendation section, slider can be added. (but I thought with slider there will be less chances for someone to reach till end of slider to check all comments so kept as list)
+4) Paragraph above skill bar can be converted into tags
+5) As of now project not mapped to any domain, but using AWS Route53 exiting bucket can be linked with purchased domain, check my Medium article about then same <a href="https://aws.plainenglish.io/link-s3-bucket-static-website-to-domain-name-using-route53-b196a9bf9c54">HERE</a>.
 
 ## Some Glimpse of Website
 
