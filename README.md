@@ -32,13 +32,14 @@ Your app is ready to be deployed!
 2) This project fetches data from two sources (AWS S3 bucket endpoint & github public API)
 3) This project is responsive & mobile device friendly.
 4) This project is hosted in AWS S3 bucket check my Medium article for the same <a href="https://aws.plainenglish.io/independent-test-environment-for-ui-developers-using-aws-s3-1c4abe48bd89">HERE</a>.
+5) Project is mapped with domain http://rahulbhargave.com using Route53, check my Medium article about then same <a href="https://aws.plainenglish.io/link-s3-bucket-static-website-to-domain-name-using-route53-b196a9bf9c54">HERE</a> for the same.
 
 ## Limitation & Future Scope
 1) Currently recommendations from LinkedIn are replicated at our source data, later this will be fetched from LinkedIn's Profile API
 2) My linked github repository doesn't have notable projects to highlight, so kindly excuse on that section. 
 3) For testimonials / recommendation section, slider can be added. (but I thought with slider there will be less chances for someone to reach till end of slider to check all comments so kept as list)
-4) As of now project not mapped to any domain, but using AWS Route53 exiting bucket can be linked with purchased domain, check my Medium article about then same <a href="https://aws.plainenglish.io/link-s3-bucket-static-website-to-domain-name-using-route53-b196a9bf9c54">HERE</a>.
-5) Can create inline command to deploy it to S3 bucket in one click using `sudo aws s3 sync ./build s3://<bucket_name>/`
+4) Can create inline command to deploy it to S3 bucket in one click using `sudo aws s3 sync ./build s3://<bucket_name>/`
+5) Jest(Unit) & Cypress(e2e) test cases are pending.
 
 ## Some Glimpse of Website
 
