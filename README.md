@@ -37,7 +37,7 @@ Your app is ready to be deployed!
 ## Limitation & Future Scope
 1) Currently recommendations from LinkedIn are replicated at our source data, later this will be fetched from LinkedIn's Profile API
 2) My linked github repository doesn't have notable projects to highlight, so kindly excuse on that section. 
-3) For testimonials / recommendation section, slider can be added. (but I thought with slider there will be less chances for someone to reach till end of slider to check all comments so kept as list)
+3) For testimonials / recommendation section, slider can be added. (but I thought with slider there will be less chances for someone to reach till end of slider to check all comments so kept as a list & placed as last section of website)
 4) Can create inline command to deploy it to S3 bucket in one click using `sudo aws s3 sync ./build s3://<bucket_name>/`
 5) Jest(Unit) & Cypress(e2e) test cases are pending.
 
